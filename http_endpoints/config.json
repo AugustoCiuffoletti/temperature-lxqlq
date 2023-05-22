@@ -34,7 +34,7 @@
     },
     {
         "route": "/inserisci",
-        "http_method": "POST",
+        "http_method": "GET",
         "function_name": "inserisci",
         "validation_method": "NO_VALIDATION",
         "respond_result": true,
